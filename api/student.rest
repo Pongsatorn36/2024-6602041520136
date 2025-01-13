@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/students
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzM2Nzc5NDM2LCJleHAiOjE3MzkzNzE0MzZ9.hI9lGKUYMvaAviFp2b0CrAz6NjaamnpiRt-yzc1I-28
+
+//Student => 1 Your name # {"data":{"name":"Pongsatorn Guna","mobile":"0970754528","cardId":"6602041520136"}}
+ //Student => 2 Your Friend # {"data":{"name":"Napat Dangchan","mobile":"0965282723","cardId":"6602041520133"}}

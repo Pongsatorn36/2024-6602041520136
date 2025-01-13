@@ -1,0 +1,9 @@
+POST http://localhost:8080/api/teachers
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzM2Nzc5NDM2LCJleHAiOjE3MzkzNzE0MzZ9.hI9lGKUYMvaAviFp2b0CrAz6NjaamnpiRt-yzc1I-28
+
+{
+    "data":{
+        "name":"Prawee Wongsa" 
+    }
+}
